@@ -1,0 +1,16 @@
+Pruebas realizadas al servidor Express
+
+Ruta 1: http://localhost:3000
+
+Resultado:
+Al ingresar a esta ruta, el servidor responde con el mensaje "Servidor activo", indicando que la aplicación está funcionando correctamente.
+
+Ruta 2: http://localhost:3000/saludo
+
+Resultado:
+Al acceder a esta ruta, el servidor responde con el mensaje "Hola comunidad", demostrando que la ruta personalizada funciona correctamente.
+
+Ruta 3: http://localhost:3000/mensaje/juan
+
+Resultado:
+Al ingresar a esta ruta, el servidor toma el parámetro "juan" de la URL y responde con el mensaje "Hola juan". Esto demuestra el funcionamiento de los parámetros dinámicos en Express.
