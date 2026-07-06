@@ -1,0 +1,5 @@
+1. No exponer ni filtrar datos personales o de contacto de los usuarios comunitarios.
+2. Proteger credenciales mediante el uso obligatorio de contraseñas robustas y cifrado.
+3. Usar conexiones seguras mediante protocolos SSL/HTTPS para transferir información.
+4. Registrar los accesos y eventos del sistema mediante logs para detectar intrusos.
+5. Limitar el acceso a información sensible únicamente a los administradores autorizados.
