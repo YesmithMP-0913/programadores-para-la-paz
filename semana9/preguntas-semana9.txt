@@ -19,7 +19,7 @@ Pregunta 3:
 A. No revisar el sistema
 B. Monitorear ejecución y registrar errores
 C. Compartir todas las credenciales
-D. Teliminar registros del sistema
+D. Eliminar registros del sistema
 Respuesta: B. Monitorear ejecución y registrar errores
 
 Pregunta 4:
