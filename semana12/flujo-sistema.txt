@@ -1,0 +1,5 @@
+Un ciudadano accede a la plataforma y crea una causa comunitaria completando un formulario básico.
+La causa y sus detalles se guardan de forma permanente y estructurada en la base de datos central.
+Otros ciudadanos registrados entran a la aplicación, leen las propuestas y deciden apoyar la causa.
+El sistema procesa cada interacción, cuenta los apoyos y actualiza el marcador visual de la interfaz.
+Al alcanzar la meta de respaldos, el sistema genera automáticamente un documento PDF con la petición formal.

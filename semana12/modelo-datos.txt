@@ -1,0 +1,15 @@
+Entidad: Causa
+- id
+- titulo
+- descripcion
+- fecha
+
+Explicación: Esta entidad sirve para almacenar el registro central de todas las propuestas y necesidades publicadas por la comunidad, permitiendo que sean visibles y consultables en la plataforma.
+
+Entidad: Apoyo
+- id
+- causa_id
+- nombre
+- fecha
+
+Explicación: Esta entidad sirve para registrar cada respaldo individual que recibe una causa específica, vinculando la interacción con la propuesta correspondiente para llevar el conteo exacto de la participación de forma organizada.

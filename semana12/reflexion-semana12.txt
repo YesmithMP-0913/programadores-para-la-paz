@@ -1,0 +1,10 @@
+Durante este curso aprendí que la tecnología es una herramienta poderosa para amplificar el alcance de los procesos comunitarios tradicionales.
+La correcta implementación de metodologías ágiles nos permite estructurar las necesidades del barrio o municipio en tareas claras y manejables.
+Comprendí que el backend y las bases de datos son el soporte técnico que otorga transparencia, permanencia y trazabilidad a las propuestas.
+La automatización con herramientas como n8n y Telegram agiliza los canales de comunicación interna, eliminando barreras de información.
+Por otro lado, la generación automatizada de documentos en formato PDF formaliza los requerimientos ciudadanos ante las entidades públicas.
+Un aprendizaje crítico fue la minimización de datos personales para resguardar la seguridad y privacidad de toda la comunidad.
+La autenticación de usuarios garantiza la legitimidad del control social, previniendo manipulaciones indebidas dentro del sistema tecnológico.
+Entendí que las soluciones digitales deben diseñarse pensando siempre en interfaces sencillas y accesibles para todos los habitantes.
+La gestión de estos proyectos fortalece el tejido social, promoviendo una cultura de veeduría ciudadana más activa y responsable.
+En conclusión, el desarrollo tecnológico con enfoque social empodera a los colectivos, facilitando el trabajo colaborativo con evidencias sólidas.
