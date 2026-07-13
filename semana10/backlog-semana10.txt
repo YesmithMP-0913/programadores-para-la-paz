@@ -1,0 +1,7 @@
+1. Como ciudadano quiero registrar una incidencia con descripción y ubicación para dejar evidencia clara del caso en la comunidad.
+
+2. Como coordinador quiero recibir una alerta automática en Telegram para revisar y validar un nuevo reporte de forma inmediata.
+
+3. Como miembro del equipo de veeduría quiero consultar el listado de reportes históricos para hacer un seguimiento ordenado a cada caso.
+
+4. Como ciudadano afectado quiero ver el estado de actualización de mi reporte para saber si ya está siendo atendido.

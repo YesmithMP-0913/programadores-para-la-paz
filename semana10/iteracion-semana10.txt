@@ -1,0 +1,15 @@
+1. ¿Qué 2 tareas del backlog harías primero?
+Las dos primeras tareas que realizaría son:
+- El registro de incidencias por parte del ciudadano (permitir que se cree el reporte).
+- El envío de la alerta automática a Telegram para el coordinador.
+
+2. ¿Por qué son las más importantes?
+Son las más importantes porque constituyen el "núcleo" o la razón de ser del sistema (el Producto Mínimo Viable). Sin la capacidad de capturar la queja del ciudadano no existe información que procesar, y sin la alerta inmediata al coordinador se rompe el canal de comunicación rápido que busca resolver el problema de forma ágil. Las demás funciones (consultar el historial o ver estados) solo tienen sentido si estas dos primeras ya están operando.
+
+3. ¿Qué significa para ti que una tarea esté “terminada”?
+Significa que la funcionalidad no solo está escrita en código, sino que cumple con los estándares de calidad mínimos acordados, es totalmente operativa para el usuario final y se encuentra respaldada en el repositorio seguro del proyecto sin romper nada de lo anterior.
+
+Definición de Terminado (Definition of Done - DoD):
+- Funciona: El código compila sin errores y la funcionalidad hace exactamente lo que pide la historia de usuario.
+- Fue probada: Se realizaron pruebas manuales o automatizadas exitosas con datos de simulación simulados (sin exponer información sensible).
+- Quedó registrada en Git: El código limpio se subió al repositorio de GitHub en la carpeta correspondiente (`semana10`) y quedó documentado con su mensaje de commit.

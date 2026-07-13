@@ -1,0 +1,10 @@
+Las metodologías ágiles, la automatización y herramientas como Telegram transforman la participación ciudadana.
+Al implementar un backlog, los comités comunitarios pueden priorizar de manera clara las quejas más urgentes.
+Esto permite trabajar en iteraciones cortas, asegurando entregas de valor rápidas para los habitantes.
+Por su parte, la automatización con n8n optimiza el tiempo al eliminar las tareas manuales repetitivas.
+Garantiza también una trazabilidad transparente desde que el ciudadano reporta hasta que se resuelve.
+La integración con Telegram facilita un canal de comunicación masivo, directo y al alcance de todos.
+Permite coordinar acciones, lanzar convocatorias y enviar alertas de veeduría en tiempo real.
+Todo este flujo se ejecuta bajo un esquema seguro que protege la información sensible de la población.
+En conclusión, estas herramientas tecnológicas democratizan el control social y organizan la gestión colectiva.
+El resultado es una comunidad empoderada, con procesos más ordenados, eficientes y con evidencias claras.
