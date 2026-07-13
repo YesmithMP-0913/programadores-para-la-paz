@@ -1,0 +1,10 @@
+Una plataforma de participación ciudadana requiere una base de datos para almacenar y estructurar los reportes comunitarios de forma permanente.
+La persistencia de estos datos permite realizar un seguimiento histórico, garantizando la trazabilidad y la transparencia del proceso social.
+Por otro lado, la autenticación de usuarios es indispensable para validar la identidad de quienes interactúan en el sistema.
+Este control de acceso asegura que solo las personas autorizadas puedan ejecutar acciones críticas como modificar o eliminar registros.
+La protección estricta de la información previene incidentes graves como la suplantación de identidad o la filtración de datos.
+Al resguardar de forma segura contraseñas, teléfonos y direcciones, se respeta el derecho fundamental a la privacidad ciudadana.
+Una seguridad robusta fomenta la confianza de los habitantes, incentivándolos a usar la herramienta digital sin temores.
+Sin estos tres pilares tecnológicos, el sistema sería vulnerable a la manipulación externa y al uso indebido de los datos.
+Por lo tanto, la base de datos, la autenticación y la privacidad sostienen el control social bajo un marco legal y seguro.
+En conclusión, integrar estas herramientas técnicas es el único camino para construir soluciones comunitarias confiables, responsables y duraderas.
